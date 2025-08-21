@@ -173,3 +173,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: enhance automation reliability - 2025-08-20 03:38:51 -->
+
+
+<!-- fix: improve cross-platform compatibility - 2025-08-21 05:14:51 -->
