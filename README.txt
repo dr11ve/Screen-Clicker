@@ -218,3 +218,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- refactor: improve code structure - 2025-09-03 21:10:51 -->
+
+
+<!-- fix: improve cross-platform compatibility - 2025-09-05 00:12:51 -->
