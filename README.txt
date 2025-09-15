@@ -251,3 +251,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: add error recovery mechanisms - 2025-09-15 05:58:51 -->
+
+
+<!-- feat: add click interval configuration - 2025-09-15 21:55:51 -->
