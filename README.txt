@@ -14,3 +14,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- fix: improve timing precision - 2025-09-20 13:28:21 -->
+
+
+<!-- refactor: improve code structure - 2025-09-21 10:28:21 -->
