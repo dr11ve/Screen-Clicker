@@ -20,3 +20,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: enhance automation reliability - 2025-09-22 14:26:21 -->
+
+
+<!-- refactor: improve code structure - 2025-09-23 17:38:21 -->
