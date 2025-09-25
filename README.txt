@@ -281,3 +281,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: implement basic click automation - 2025-09-25 01:03:51 -->
+
+
+<!-- feat: add click interval configuration - 2025-09-26 02:54:51 -->
