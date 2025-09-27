@@ -32,3 +32,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- fix: improve timing precision - 2025-09-26 17:02:21 -->
+
+
+<!-- fix: improve cross-platform compatibility - 2025-09-27 18:47:21 -->
