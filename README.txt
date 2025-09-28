@@ -290,3 +290,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: add hotkey support for click actions - 2025-09-28 06:51:51 -->
+
+
+<!-- fix: improve cross-platform compatibility - 2025-09-29 01:44:51 -->
