@@ -299,3 +299,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- fix: improve timing precision - 2025-10-01 05:11:51 -->
+
+
+<!-- feat: add hotkey support for click actions - 2025-10-02 02:21:51 -->
