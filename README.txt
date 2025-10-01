@@ -44,3 +44,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: enhance automation reliability - 2025-09-30 16:00:21 -->
+
+
+<!-- feat: add hotkey support for click actions - 2025-10-01 17:07:21 -->
