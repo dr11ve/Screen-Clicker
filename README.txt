@@ -59,3 +59,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: add error recovery mechanisms - 2025-10-05 16:08:21 -->
+
+
+<!-- feat: add hotkey support for click actions - 2025-10-06 13:50:21 -->
