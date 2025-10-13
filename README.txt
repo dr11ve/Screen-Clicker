@@ -80,3 +80,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: implement click counter - 2025-10-12 13:48:21 -->
+
+
+<!-- refactor: improve code structure - 2025-10-13 13:51:21 -->
