@@ -92,3 +92,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: implement click counter - 2025-10-16 16:55:21 -->
+
+
+<!-- feat: add click interval configuration - 2025-10-17 11:33:21 -->
