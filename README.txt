@@ -95,3 +95,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: add click interval configuration - 2025-10-17 11:33:21 -->
+
+
+<!-- fix: improve timing precision - 2025-10-18 13:37:21 -->
