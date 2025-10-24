@@ -113,3 +113,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: implement click counter - 2025-10-23 13:27:21 -->
+
+
+<!-- refactor: improve code structure - 2025-10-24 10:49:21 -->
