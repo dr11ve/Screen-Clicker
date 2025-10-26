@@ -119,3 +119,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: implement basic click automation - 2025-10-25 18:24:21 -->
+
+
+<!-- refactor: improve code structure - 2025-10-26 13:44:21 -->
