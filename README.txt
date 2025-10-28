@@ -380,3 +380,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- fix: improve cross-platform compatibility - 2025-10-28 04:13:51 -->
+
+
+<!-- feat: add click interval configuration - 2025-10-28 22:53:51 -->
