@@ -128,3 +128,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: implement basic click automation - 2025-10-28 16:24:21 -->
+
+
+<!-- feat: add hotkey support for click actions - 2025-10-29 19:26:21 -->
