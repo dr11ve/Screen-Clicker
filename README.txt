@@ -137,3 +137,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: add hotkey support for click actions - 2025-10-31 17:28:21 -->
+
+
+<!-- refactor: improve code structure - 2025-11-01 14:11:21 -->
