@@ -140,3 +140,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- refactor: improve code structure - 2025-11-01 14:11:21 -->
+
+
+<!-- feat: add click interval configuration - 2025-11-02 18:19:21 -->
