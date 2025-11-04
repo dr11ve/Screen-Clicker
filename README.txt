@@ -398,3 +398,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: add error recovery mechanisms - 2025-11-02 22:05:51 -->
+
+
+<!-- fix: improve cross-platform compatibility - 2025-11-04 06:06:51 -->
