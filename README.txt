@@ -410,3 +410,6 @@ So,with this script you handle any activity that requires non-stop clicking on t
 
 
 <!-- feat: implement click counter - 2025-11-07 01:36:51 -->
+
+
+<!-- feat: add hotkey support for click actions - 2025-11-08 04:13:51 -->
